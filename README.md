@@ -27,9 +27,31 @@ The dashboard is designed to be fully interactive, allowing users to explore hea
 
 ---
 
-## Interactive Dashboards
+## Interactive Dashboards 🎛️
 
-📌 **Check out the full interactive dashboards and let me know your thoughts!**
+📌 Below are previews of the interactive dashboards. Click on the images to explore the full experience!
+
+### **1️⃣ Hospital Resource Allocation Dashboard**
+#### **📊 Static Image**
+![Dashboard Preview](display/dashboard.png)
+#### **🎬 GIF Preview**
+![Dashboard GIF](display/dashboard.gif)
+
+---
+
+### **2️⃣ A&E Waiting Time Analysis**
+#### **📊 Static Image**
+![Analytics Preview](display/analytics.png)
+#### **🎬 GIF Preview**
+![Analytics GIF](display/analytics.gif)
+
+---
+
+### **3️⃣ Weather Impact on Consultations**
+#### **📊 Static Image**
+![Weather Preview](display/weather.png)
+#### **🎬 GIF Preview**
+![Weather GIF](display/weather.gif)
 
 ---
 
@@ -41,9 +63,10 @@ The dashboard is designed to be fully interactive, allowing users to explore hea
 ---
 
 ## Datasets Used 📊
-- **A&E Waiting Times:** [Dataset Link](https://lnkd.in/eE7fqDqT)
-- **Hospital Beds Capacity:** [Dataset Link](https://lnkd.in/esFCacYP)
-- **Scottish Weather Historical Data:** [Dataset Link](https://lnkd.in/ew2XKKHi)
+- **A&E Waiting Times:** [Dataset Link](https://www.opendata.nhs.scot/dataset/accident-emergency-waiting-times)
+- **Hospital Beds Capacity:** [Dataset Link](https://www.opendata.nhs.scot/dataset/hospital-beds)
+- **Scottish Weather Historical Data:** [Dataset Link](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data)
+- The weather data is collected from the **Paisley weather station**, as it is located near Glasgow, where I live. This station serves as a representative source for analyzing local weather impact on healthcare trends.
 
 ---
 
@@ -53,27 +76,5 @@ The dashboard is designed to be fully interactive, allowing users to explore hea
 
 ---
 
-## How to Access the Dashboard 🔗
-You can access the interactive dashboards using Power BI or view the static visualizations below.
-
-### **Static Visualization Preview**
-![Dashboard Preview](link-to-your-dashboard-image)
-
----
-
 ## Acknowledgments
 This project leverages NHS Scotland public datasets for educational and analytical purposes. Special thanks to Power BI for providing an excellent platform for interactive visualizations.
-
----
-
-## Contact 📩
-Feel free to reach out for discussions, collaborations, or feedback!
-
-**🔹 LinkedIn:** [Your LinkedIn Profile](#)  
-**🔹 GitHub:** [Your GitHub Profile](#)  
-**🔹 Email:** your.email@example.com
-
----
-
-## Tags
-`#PowerBI` `#DataVisualization` `#HealthcareAnalytics` `#DataScience` `#InteractiveDashboards` `#AandE` `#NHSScotland` `#WeatherData` `#MachineLearning` `#DataAnalytics`
